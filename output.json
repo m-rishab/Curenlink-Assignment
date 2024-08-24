@@ -1,0 +1,365 @@
+[
+  {
+    "ticket_id": "3a16cf52-26a0-47d6-8c91-9810039676ee",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)"
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits."
+      },
+      {
+        "role": "user",
+        "content": "Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job, {patient_name}! I'm glad to see you're following your diet plan so well. Let's break this down:\\n\\n1. Methi dana (fenugreek seeds): Excellent choice! Soaking methi seeds overnight is perfect for your early morning routine. This helps de-bloat and manage excess water weight, which is beneficial for your PCOS condition.\\n\\n2. Dry fruits: The mix of almonds, walnuts, raisins, and figs is an excellent addition to your diet. These provide healthy fats, protein, and fiber, all of which are important for managing PCOS and supporting overall health. Remember to stick to the recommended portions in your diet chart.\\n\\nA couple of suggestions:\\n\\n1. Try to have the methi water on an empty stomach in the morning for best results.\\n2. For the dry fruits, aim to have them as part of your mid-morning snack. This will help balance your blood sugar levels throughout the day.\\n\\nKeep up the great work! These choices are supporting your nutritional needs and helping manage your PCOS symptoms. Don't forget to stay hydrated and incorporate some light exercise, like a short walk, into your daily routine.\", type='text')"
+    ],
+    "ideal_response": "Great job for having methi water, continue having it daily, it will help boost your metabolism.\nVarsha, but i also noticed that you are having figs and raisins but they are not presrcibed in the diet plan, can i know why you have added them ?"
+  },
+  {
+    "ticket_id": "3a078f8d-b2b9-41af-a592-5f1c6cdd0484",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on preparing the vegetable upma, {patient_name}! It's an excellent breakfast choice for your PCOS management. The upma aligns well with your prescribed diet, providing a good balance of complex carbohydrates and vegetables.\\n\\nI'm glad to see you've included vegetables in your upma, which adds essential nutrients and fiber. This helps with blood sugar regulation and digestive health, both important for PCOS. The portion size of one bowl is appropriate for your meal plan.\\n\\nTo further enhance the nutritional value, you could consider adding a small portion of curd on the side. This would provide probiotics for gut health and some additional protein. Also, remember to stay hydrated throughout the day.\\n\\nKeep up the good work with your balanced meals. It's these consistent efforts that will make a significant difference in managing your PCOS symptoms.\", type='text')"
+    ],
+    "ideal_response": "Varsha, i noticed you are having upma instead of poha as prescribed in your diet plan, can you let me know why ?"
+  },
+  {
+    "ticket_id": "8e342394-8e9f-42d5-9905-52d570fa9c2f",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast."
+      },
+      {
+        "role": "user",
+        "content": "And yesterday i skipped on dinner \nPhoto click krna bhul gyi thi but i had barley daliya"
+      },
+      {
+        "role": "user",
+        "content": "Today\u2019s weight after clearning stomach 73.4 kg"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi Priyanka! Thank you for sharing your breakfast photo and updating me on your recent meals and weight. Let's go through this information:\\n\\n1. Breakfast: The oats mixture you've prepared looks nutritious and filling. It's great to see you incorporating oats, which are excellent for managing PCOS symptoms. The addition of nuts or seeds provides healthy fats and extra protein, which is beneficial for your condition.\\n\\n2. Yesterday's dinner: While it's good that you had barley daliya instead of skipping dinner entirely, remember that consistent meal timing is important for managing PCOS. Try to stick to your prescribed dinner time in the future.\\n\\n3. Weight update: Thank you for sharing your current weight. It's important to track this, but remember that weight can fluctuate day-to-day. Focus on long-term trends and how you feel overall.\\n\\nSuggestions:\\n1. Try to include more vegetables in your breakfast, like adding some spinach or grated carrots to your oats mixture for added nutrients.\\n2. Aim to have dinner at the prescribed time (8:00 PM) to maintain a consistent eating schedule.\\n3. Keep up with your hydration, especially with the jeera water recommended in your diet plan.\\n\\nRemember, consistency in following your diet plan is key for managing PCOS and supporting your health goals. Keep up the good work, and don't hesitate to reach out if you have any questions!\", type='text')"
+    ],
+    "ideal_response": "Shobhita, I noticed aap oats le rhe ho, which is a healthy choice, but maine aapki diet mein aloo parantha + curd likha tha, aapne vo nhi khaya ?"
+  },
+  {
+    "ticket_id": "4937b689-8013-4316-80ec-e66447c387c3",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text='Great job on having your milk without sugar, Priyanka! Adding cardamom is a nice touch for flavor without extra calories. This aligns well with your breakfast plan for today, which includes milk. \\n\\nA couple of suggestions:\\n1. Try to have the milk about 20-25 minutes after your vegetable upma to aid in better nutrient absorption.\\n2. Consider adding a small portion of fruits or nuts to your breakfast to increase fiber and nutrient intake, which can help with your PCOS management.\\n\\nKeep up the good work with following your diet plan. Remember to stay hydrated throughout the day!', type='text')"
+    ],
+    "ideal_response": "Great job on following your diet plan, keep it up!"
+  },
+  {
+    "ticket_id": "144d6db8-d7ad-482b-9de3-540bf39127f5",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a white mug filled with a red beverage, placed on a white plate with a blue decorative border. On the plate, there are several almonds and pieces of walnuts. The background appears to be a dark, textured surface.) with the following caption I have done \u2714\ufe0f 7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c."
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a bowl of cereal with milk placed on a decorative plate. A spoon is partially visible in the bowl, and the setup is on a wooden surface. The cereal appears to be a type of flake cereal.)"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on your early morning meal! \ud83d\udc4d It's wonderful to see you're following your diet plan. The cinnamon water and soaked nuts align perfectly with your prescribed 8:00 AM meal. The almonds and walnuts are excellent sources of healthy fats and omega-3 fatty acids, which can help with weight management and overall health.\\n\\nRegarding your second meal, I see you've had a bowl of cereal with milk. While this isn't exactly what's prescribed in your diet chart, it's good that you're having a balanced breakfast. However, for better alignment with your weight management goals, I'd suggest trying the oats and mixed sprouts cheela as mentioned in your plan. This would provide more protein and fiber to keep you feeling full longer.\\n\\nRemember to stay hydrated throughout the day, and keep up the great work with incorporating fruits and vegetables in your later meals. If you have any questions about your meal plan or need ideas for alternatives, feel free to ask!\", type='text')"
+    ],
+    "ideal_response": "Great job sticking to your meal plan! Keep it up!"
+  },
+  {
+    "ticket_id": "8a280b8a-26ab-40f5-bb1d-22b1aa4e47f3",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a stainless steel plate containing a serving of cooked food, which appears to be a grain-based dish with vegetables, possibly upma or khichdi. There is also a portion of green chutney or sauce on the side, and a spoon is placed on the plate.) with the following caption Beark fast."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! It's great to see you're having a nutritious breakfast. The dish you've prepared looks like a hearty vegetable upma or khichdi, which is an excellent choice for your morning meal. Here's some feedback on your breakfast:\\n\\nPositives:\\n1. The grain-based dish provides complex carbohydrates for sustained energy.\\n2. The addition of vegetables increases the fiber and nutrient content.\\n3. The green chutney on the side adds flavor and potentially some extra nutrients.\\n\\nSuggestions:\\n1. To boost protein, consider adding a small portion of low-fat curd or a boiled egg on the side.\\n2. If it's upma, try using oats instead of semolina next time for added fiber and nutrients.\\n3. Remember to stay hydrated - have a glass of water or some lemon water with your meal.\\n\\nOverall, you're on the right track with this balanced breakfast. Keep up the good work, and don't hesitate to ask if you have any questions about your meal plan!\", type='text')"
+    ],
+    "ideal_response": "Great job aarti, why have you not included milk ?"
+  },
+  {
+    "ticket_id": "15d414f1-3afc-4b4b-adc6-fafc3eaf3f8f",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a close-up of a bowl containing pomegranate seeds and almond slices. The bowl is metallic, and there is a spoon inside it. The background appears to be a tablecloth with a partial view of a colorful design.) with the following caption Pomegranate with 1 spoon seasme seeds and 1 spoon  sunflower seeds."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great choice for your mid-meal snack! The pomegranate with sesame and sunflower seeds is an excellent combination for your PCOS management, Priya. Here's why it's beneficial:\\n\\n1. Pomegranate is rich in antioxidants, which can help reduce inflammation associated with PCOS.\\n2. Sesame and sunflower seeds provide healthy fats and fiber, which can help balance hormones and improve insulin sensitivity.\\n3. This snack aligns well with your prescribed diet plan for the mid-meal.\\n\\nJust a small note: I noticed almonds in the image, but you mentioned sesame seeds in your caption. Either is great, as both are part of your recommended seed cycling plan. Keep up the good work with incorporating these nutrient-dense foods into your diet!\\n\\nRemember to stay hydrated throughout the day. If you have any questions about your meal plan or PCOS management, feel free to ask. Keep up the great effort!\", type='text')"
+    ],
+    "ideal_response": "Great job, keep it up! Sesame and sunflower seeds are great source of omega 3 fatty acid which help regulate your period cycle."
+  },
+  {
+    "ticket_id": "158e30e7-eb1b-4986-8515-05180028d296",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "1 Nariyal Panni"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! It's great to see you're staying hydrated with coconut water. That's an excellent choice for your mid-morning snack. Coconut water is not only refreshing but also packed with electrolytes and potassium, which can help maintain your body's fluid balance.\\n\\nJust a friendly reminder, your diet plan suggests having an apple with mixed seeds for your mid-morning snack. While coconut water is a healthy option, you might want to consider adding some mixed seeds to your next snack to get those beneficial omega-3 fatty acids and fiber.\\n\\nKeep up the good work with staying hydrated! If you have any questions about your meal plan or want to discuss alternatives, feel free to ask.\", type='text')"
+    ],
+    "ideal_response": "Good job, coconut water is great source of potassium. Why have you not included seeds with this ?"
+  },
+  {
+    "ticket_id": "1bc93246-b66f-409f-bbc1-dfec4cd2ae8d",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a plate with a few pieces of food, possibly idli, which is a type of South Indian steamed rice cake. There is also a small amount of white sauce or chutney on the plate. The plate has a simple design with a green dot and black lines. The background includes a colorful, floral-patterned tablecloth.) with the following caption Idly with chutney."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! It's great to see you're having idli with chutney for your meal. Idli is a nutritious choice, being low in calories and fat while providing good carbohydrates. Let's see how this fits into your diet plan:\\n\\nWhile idli isn't specifically mentioned in your current diet chart, it can be a good substitute for other breakfast options. The portion size looks appropriate, which is positive. However, I'd suggest adding some protein to balance the meal. Perhaps you could include a small serving of dal or a vegetable side dish to boost the nutritional value.\\n\\nRemember to stay mindful of the chutney portion, as it can sometimes add extra calories. If possible, opt for coconut chutney as it provides healthy fats.\\n\\nKeep up the good work with your meal choices! Don't forget to stay hydrated throughout the day. If you have any questions about incorporating idli into your diet plan, feel free to ask your Curelink care team.\", type='text')"
+    ],
+    "ideal_response": "Rupa, I noticed that you were prescribed mixed veg vermicili, can you let know why are you having idli ?"
+  },
+  {
+    "ticket_id": "e2ef7155-002b-4bdf-a8ef-270a8c59b025",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a meal served on a metal plate. The meal includes:\n\n1. A stuffed paratha (Indian flatbread).\n2. A serving of green chutney.\n3. A bowl with three boiled eggs in a yellowish liquid, likely a curry.\n4. A bowl of sliced cucumbers.\n5. A glass of buttermilk or yogurt with herbs sprinkled on top.\n\nThe plate is placed on a patterned tablecloth.) with the following caption 2 Oats wheat roti add veggies.. and coriander chutni nd little onion sbji nd I added mint and cumin in  buttermilk."
+      },
+      {
+        "role": "user",
+        "content": "Wd salad"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on your lunch, Priya! It's wonderful to see you incorporating so many nutritious elements into your meal. Let's break it down:\\n\\n1. Oats wheat roti with veggies: Excellent choice! This aligns perfectly with your diet plan and provides a good balance of complex carbs and fiber.\\n\\n2. Coriander chutney and onion sabji: These add flavor and nutrients without excess calories. Good thinking!\\n\\n3. Cucumber salad: Perfect addition for extra hydration and fiber.\\n\\n4. Buttermilk with mint and cumin: This is a great probiotic source, crucial for your gut health. The herbs add both flavor and health benefits.\\n\\nJust a gentle reminder - I notice eggs in the image, which aren't part of your vegetarian diet plan. In the future, you could replace them with a plant-based protein like paneer or tofu.\\n\\nKeep up the great work with your balanced meals! They're key in managing your PCOS symptoms and overall health.\", type='text')"
+    ],
+    "ideal_response": "Great job for having oats roti, salad and curd, but i noticed you are not having lauki chana dal as prescribed in the diet plan, can you let me know the reason ?"
+  },
+  {
+    "ticket_id": "ca331178-80da-48f8-a3a5-d483fa0391ea",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a bowl with a floral pattern containing pieces of orange fruit, likely papaya, sprinkled with sesame seeds and sunflower seeds. There is a spoon in the bowl, suggesting the dish is ready to be eaten. The bowl is placed on a grey countertop.) with the following caption I have done \u2714\ufe0f meal 11:30am."
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (This image is a detailed meal plan for Day 4, Friday, dated 14-06-2024. It outlines specific foods and beverages to be consumed at various times throughout the day, along with their quantities and some preparation instructions. The schedule includes:\n\n- **Early Morning (08:00 AM):** Cinnamon water, soaked almonds, and soaked walnuts.\n- **Breakfast (10:00 AM):** Apple cinnamon overnight oats.\n- **Mid Meal (11:00 AM):** Pomegranates and coconut water.\n- **Lunch (02:00 PM):** Bajra roti, plain toor dal, curd, and tomato cucumber salad.\n- **Evening (05:00 PM):** Spearmint tea, roasted kala chana, flax seeds, and pumpkin seeds.\n- **Dinner (08:00 PM):** Boiled sprouts with cucumber and tomato.\n- **Post Dinner (10:00 PM):** Jeera water.\n\nThe plan also includes some nutritional tips and preparation notes for each meal.)"
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a packet of milk from Mother Dairy placed on a countertop. In front of the milk packet, there is a bowl containing a mixture of seeds and nuts, possibly in yogurt or milk. The seeds and nuts include pumpkin seeds, flax seeds, and other assorted seeds.) with the following caption I have done before 30 minutes  drink  \ud83c\udf78 Buttermilk."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on following your meal plan, Priyanka! It's wonderful to see you're staying consistent with your nutrition. Let's review your recent meals:\\n\\n1. Your 11:30 AM meal of papaya with sesame and sunflower seeds is a nutritious choice. It's rich in vitamins and healthy fats. However, your plan suggests pomegranates and coconut water for this time. While papaya is also healthy, try to stick to the prescribed fruits when possible.\\n\\n2. The buttermilk you had 30 minutes ago is a good source of probiotics, which can help with your gut health. It's not on your current meal plan, but it can be a beneficial addition if you're feeling hungry between meals.\\n\\n3. I see you've prepared a bowl with various seeds, which aligns well with your evening snack plan. The pumpkin and flax seeds are excellent choices for your health goals.\\n\\nRemember to have your lunch as planned at 2:00 PM, which includes bajra roti, plain toor dal, curd, and tomato cucumber salad. This balanced meal will provide you with essential nutrients and fiber to keep you satisfied.\\n\\nKeep up the great work with your meal tracking! If you have any questions about your diet plan or need suggestions for alternatives, feel free to ask.\", type='text')"
+    ],
+    "ideal_response": "Great job! I just checked, you are having sunflower and sesame seeds, but i have mentioned pumpkin and flax seeds in your diet ."
+  },
+  {
+    "ticket_id": "ffa2b043-7c9f-43e3-b434-7f874f01b916",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)"
+      },
+      {
+        "role": "user",
+        "content": "Replied to the following message: \"Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\", with: \"Only Salad \ud83e\udd57 \ud83d\ude0b\""
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on including paneer in your salad, Priyanka! \ud83d\udc4d It's a good source of protein and fits well with your weight management goals. However, remember that your lunch meal plan for today includes bajra roti, plain toor dal, curd, and tomato cucumber salad. While the paneer salad is nutritious, try to incorporate the other elements of your prescribed meal to ensure you're getting a balanced mix of nutrients. Don't forget to add some vegetables to your salad for added fiber and vitamins. Keep up the good work with your healthy choices! \ud83d\ude0a\", type='text')"
+    ],
+    "ideal_response": "Charleen, why are you having only paneer ?"
+  },
+  {
+    "ticket_id": "206b8b1e-25f6-48fb-9271-524f1752f27c",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a meal consisting of a plate with sliced cucumbers and tomato wedges, and a metal tray with flatbreads (possibly chapati or roti), a bowl of curry, and a bowl of yogurt or raita. The setting appears to be on a table with a patterned tablecloth.) with the following caption Lunch."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on your lunch, {patient_name}! It's wonderful to see you're following your diet plan closely. Your meal aligns well with the prescribed lunch for today. Here's a quick breakdown:\\n\\nThe roti (likely oats roti as per your plan), curry (possibly kadhi), and yogurt/raita are all part of your recommended lunch. The cucumber and tomato slices are an excellent addition, matching perfectly with your prescribed salad.\\n\\nOne suggestion: If you haven't already, try to ensure your roti is made with 50% oats atta as recommended. This helps boost the fiber content and provides sustained energy.\\n\\nRemember, incorporating curd in your afternoon meal is great for improving gut health. Keep up the good work in balancing your meals and staying hydrated!\", type='text')"
+    ],
+    "ideal_response": "Aarti, aap konsi sabzi kha rhe ho ?"
+  },
+  {
+    "ticket_id": "cb61d429-1350-41e0-b312-e83a01be382b",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Yes mam I added later"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job, {patient_name}! I'm glad to hear you added the raita later. That's a perfect addition to your meal, as it provides probiotics which are excellent for your gut health. It's wonderful to see you're following the diet plan so closely and making those small but important adjustments.\\n\\nRemember, incorporating raita or curd in your afternoon meals daily can significantly improve your digestive health and help manage your PCOS symptoms. Keep up the good work, and don't hesitate to ask if you have any questions about your meals or diet plan!\", type='text')"
+    ],
+    "ideal_response": "Try to share picture of the entire meal, so that we can review accordingly. Keep it up!"
+  },
+  {
+    "ticket_id": "699bb2fa-0192-47df-ae49-dafd50c42238",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)"
+      },
+      {
+        "role": "user",
+        "content": "1 glass milk @ 11:30"
+      },
+      {
+        "role": "user",
+        "content": "Replied to the following message: \"Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\", with: \"@ 2:30\""
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! It's great to see you're keeping up with your meals and snacks. Let's go through what you've had today:\\n\\n1. At 11:30 AM, you had 1 glass of milk. That's a good source of protein and calcium!\\n\\n2. At 2:30 PM, you had a mix of roasted peanuts and makhana (puffed lotus seeds). This is a nutritious snack choice, but let's talk about portion size.\\n\\nYour diet plan suggests makhana as an evening snack around 5 PM. While the timing is a bit early, the choice of makhana is great! It's high in protein and fiber, which can help with weight management. However, be mindful of the portion size, especially with the added peanuts. A small handful (about 1 katori) is ideal.\\n\\nFor future reference, try to stick closer to the suggested timings in your diet plan. This helps maintain steady energy levels throughout the day.\\n\\nAlso, remember to include some fruits or vegetables with your snacks when possible. This adds more nutrients and fiber to your diet.\\n\\nKeep up the good work with logging your meals! Is there anything else you'd like to share about your meals today?\", type='text')"
+    ],
+    "ideal_response": "Great choice, makhana and peanuts are rich in calcium and protien."
+  },
+  {
+    "ticket_id": "53a39079-04ce-440f-8fe6-4a6d1e6a570d",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a plate of food that includes a bowl of yellow lentil soup (dal) with a spoon in it, a piece of flatbread (roti), some cooked vegetables, and a slice of raw onion. The plate is placed on a table with a patterned tablecloth. A person's foot wearing a sandal is visible at the bottom of the image.) with the following caption Moong dal , little cabbage, jowar roti for lunch."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on your lunch choice, {patient_name}! Your meal aligns well with your prescribed diet plan. Here's some feedback:\\n\\nPositives:\\n- The jowar roti is an excellent choice, providing fiber and complex carbs.\\n- Moong dal offers a good source of protein and is easy to digest.\\n- Including cabbage adds valuable nutrients and fiber to your meal.\\n\\nSuggestions:\\n- Consider adding a small serving of curd to boost calcium intake and aid digestion.\\n- You could increase the portion of vegetables for more fiber and nutrients.\\n- Remember to stay hydrated by having a glass of water with your meal.\\n\\nKeep up the good work with your balanced meals! They're helping manage your weight and supporting your overall health goals.\", type='text')"
+    ],
+    "ideal_response": "Your meal looks good, you can add curd and more salad in your meal to make it complete."
+  },
+  {
+    "ticket_id": "caf28ae3-7327-4f61-ae15-2c18597d8e3e",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a small metal bowl filled with puffed snacks, likely makhana (fox nuts), and a ceramic cup with a wooden texture design containing a yellowish liquid, possibly tea. The items are placed on a fabric surface with a striped pattern visible in the background.) with the following caption Makhana nd spearmint tea."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great choice for your evening snack, {patient_name}! The makhana (fox nuts) and spearmint tea combination is an excellent way to satisfy your hunger while staying on track with your diet plan.\\n\\nMakhana is a nutritious, low-calorie snack that's rich in antioxidants and minerals, making it a perfect option for managing PCOS. The spearmint tea is a great addition, as it may help with hormonal balance. \\n\\nRemember to keep your portion of makhana to about 1 cup, as mentioned in your diet chart. The spearmint tea is a wonderful way to stay hydrated and potentially support your PCOS management.\\n\\nKeep up the good work with making such mindful snack choices!\", type='text')"
+    ],
+    "ideal_response": "Nice choice! Makhana and spearmint tea are great for your diet. Keep it up!"
+  },
+  {
+    "ticket_id": "9f991db6-ed10-4613-b597-040ae4cf6d92",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "i had bhindi and oats roti 2 in lunch a"
+      },
+      {
+        "role": "user",
+        "content": "and right now i had 2 apple pealed"
+      },
+      {
+        "role": "user",
+        "content": "i forgot to click pictures due to office hours"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! Thank you for sharing your meal details, even without pictures. It's great that you're keeping track of your meals despite your busy office hours.\\n\\nYour lunch of bhindi (okra) and 2 oats rotis aligns well with your prescribed diet. The oats rotis are an excellent choice for managing PCOS, as they're high in fiber and can help stabilize blood sugar levels. The bhindi adds valuable nutrients and fiber to your meal.\\n\\nFor your snack, having 2 peeled apples is a good choice. Apples are rich in antioxidants and fiber, which can be beneficial for PCOS management. However, next time try to keep the peel on if possible, as it contains additional nutrients and fiber.\\n\\nWhile it's understandable that office hours can make it challenging, try to take quick snapshots of your meals when you can. This helps us provide more accurate feedback and track your progress better.\\n\\nKeep up the good work with following your diet plan! Is there anything specific you'd like to know about managing your meals during work hours?\", type='text')"
+    ],
+    "ideal_response": "Good shobhita, I hope you had curd and salad along with roti and bhindi. Also, I would suggest you to have 1 apple instead of 2 and after how much gap did you have the apples ?"
+  },
+  {
+    "ticket_id": "d9cc7206-f263-4e5f-a095-f3dbb12d3fcc",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a glass container filled with a colorful vegetable and tofu stir-fry. The dish includes red, green, and yellow bell peppers, tomatoes, and tofu cubes, all mixed together. The container is placed on a wooden surface, and part of a person's arm, a bottle of hand sanitizer, and a laptop are visible in the background.) with the following caption Dinner."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! It's great to see you're having a colorful and nutritious dinner. Your vegetable and tofu stir-fry looks delicious and aligns well with your diet plan. Let's break it down:\\n\\nPositives:\\n1. Excellent choice of protein with tofu, which is perfect for your vegetarian diet.\\n2. The variety of colorful bell peppers provides essential vitamins and antioxidants.\\n3. Tomatoes are a great source of lycopene, beneficial for PCOS management.\\n\\nSuggestions:\\n1. Consider adding some leafy greens like spinach or kale for extra iron and fiber.\\n2. If you haven't already, try using a small amount of olive oil for cooking, as healthy fats are important for hormone balance in PCOS.\\n\\nRemember to stay hydrated and try to have this meal at least 2-3 hours before bedtime for better digestion. Keep up the good work with your balanced meals!\\n\\nIs there anything specific you'd like to know about this meal or your diet plan?\", type='text')"
+    ],
+    "ideal_response": "Shobhita, as mentioned on your diet chart, your dinner was planned at 8pm, any reasons why you are taking it so early ?"
+  },
+  {
+    "ticket_id": "7bcaa083-5f9e-4142-9976-9172ed6e5c90",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Also i had lemon tea with it"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Hi there! Thanks for letting me know about the lemon tea you had with your dinner. It's great that you're keeping track of your meals and beverages.\\n\\nYour dinner of vegetable and tofu stir-fry looks nutritious and colorful, which is excellent for getting a variety of vitamins and minerals. The addition of lemon tea is a nice touch, as it can aid digestion and provide some additional antioxidants.\\n\\nJust a friendly reminder to be mindful of the timing of your tea consumption. It's best to have tea about 30 minutes before or after your meal rather than with it, as the tannins in tea can interfere with iron absorption from your food. \\n\\nKeep up the good work with your balanced meals! If you have any questions about your diet plan or need suggestions, feel free to ask. Stay hydrated and enjoy your evening!\", type='text')"
+    ],
+    "ideal_response": "Prefer to maintain a gap of 20-30 mins between Solid foods and fluids to ensure better absorption rate"
+  },
+  {
+    "ticket_id": "84447c63-2773-488c-a799-c1702c200bff",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Lemon water m honey or salt add kr skte h n?"
+      },
+      {
+        "role": "user",
+        "content": "Jeera water or souf water add nh kr skte kya?"
+      },
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a close-up of a bowl of cooked food, likely a type of soup or stew. The dish appears to contain small grains or lentils, along with pieces of vegetables and possibly some spices. The food has a reddish-brown color, indicating it might be seasoned with spices or a tomato-based sauce. A spoon is partially visible in the bowl.) with the following caption Vegetable dalia."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on preparing the vegetable dalia! It looks nutritious and filling. Here's some feedback on your questions and meal:\\n\\n1. Lemon water: It's best to avoid adding honey to your lemon water as it can increase calorie intake. A pinch of salt is fine and can help with electrolyte balance. \\n\\n2. Jeera (cumin) and saunf (fennel) water are excellent choices! Both can aid digestion and potentially support weight management. Feel free to incorporate these into your routine.\\n\\n3. Your vegetable dalia looks delicious and aligns well with your diet plan. It's a great source of fiber and complex carbs. Make sure you're including a variety of vegetables for added nutrients.\\n\\nRemember to stay hydrated and keep up with your balanced meals. If you have any more questions about your diet, feel free to ask!\", type='text')"
+    ],
+    "ideal_response": "You can add honey to lemon water but skip the salt. Jeera water and sauf ka pani is fine, Your vegetable dalia looks good! Keep it up!"
+  },
+  {
+    "ticket_id": "42eed415-aee2-4ced-8772-89c086b779dc",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Night drink"
+      },
+      {
+        "role": "user",
+        "content": "Ajwain"
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on having your ajwain water as your night drink, {patient_name}! This aligns perfectly with your prescribed diet plan. Ajwain water is an excellent choice for your post-dinner drink at 10:00 PM. It can help reduce digestive discomforts and potentially improve your metabolic rate.\\n\\nRemember to have it at normal temperature after boiling and straining. This simple habit can contribute to better digestion and overall gut health. Keep up this healthy routine as part of your weight management journey!\\n\\nIs there anything else you'd like to know about the benefits of ajwain water or your evening routine?\", type='text')"
+    ],
+    "ideal_response": "Great choice! Ajwain water is excellent for digestion. Keep it up!"
+  },
+  {
+    "ticket_id": "05c707a6-aa65-4411-be6a-834af5df2ddd",
+    "latest_query": [
+      {
+        "role": "user",
+        "content": "Sent an image (The image shows a metallic cup filled with a brown liquid, likely tea or coffee, with a metallic spoon inside. The cup is placed on a textured surface, possibly a cloth or towel.) with the following caption Turmeric water."
+      }
+    ],
+    "generated_response": [
+      "TextBlock(text=\"Great job on preparing your turmeric water, {patient_name}! It's excellent to see you following through with this healthy addition to your routine. The warm turmeric water can help reduce inflammation and support your overall health goals.\\n\\nA couple of quick tips:\\n1. Make sure you're using just a pinch of turmeric to avoid an overpowering taste.\\n2. Try to drink it while it's still warm for maximum benefits.\\n\\nKeep up the good work with incorporating these healthy habits into your daily routine. It's small steps like these that can make a big difference in your PCOS management and overall well-being. If you have any questions about the taste or effects, feel free to ask!\", type='text')"
+    ],
+    "ideal_response": "Great choice, the diet plan mentioned popcorn but you are having makahna which are even healthier and a great source of fiber and calcium."
+  }
+]
