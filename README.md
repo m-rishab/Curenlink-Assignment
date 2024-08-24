@@ -10,7 +10,7 @@ This project automates the process of responding to patient meal picture queries
 ## Project Structure
 
 - `queries.json`: Sample patient queries, including their profile context, chat history, and ideal responses.
-- `main.py`: The Python script that processes the queries and generates AI-based responses.
+- `app.py`: The Python script that processes the queries and generates AI-based responses.
 - `output.json`: The generated responses based on the queries.
 - `README.md`: This document providing an overview of the project.
 
