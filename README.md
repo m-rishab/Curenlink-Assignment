@@ -29,6 +29,6 @@ This project automates the process of responding to patient meal picture queries
     ```
 3. Run the script:
     ```bash
-    python main.py
+    python app.py
     ```
 4. The responses will be saved in the `output.json` file.
